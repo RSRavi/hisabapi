@@ -9,10 +9,6 @@ user = mydb['users']
 provider = mydb['provider']
 transaction = mydb['transaction']
 
-result = user.find()
-for x in result:
-    print(">>>>", x)
-
 app = Flask(__name__)
 
 @app.route("/")
