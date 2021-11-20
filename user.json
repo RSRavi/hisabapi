@@ -1,0 +1,33 @@
+{
+"type":
+	{
+	"producer":
+	{
+	  "1234567890":
+		  {
+    		"name": "vishal",
+    		"id": "1234567890",
+    		"password": "abcd1234",
+    		"address": "SSM"
+		  }
+		},
+	"consumer":
+	 {
+	   "2234567890":
+  		{
+    		"name": "raj",
+    		"id": "2234567890",
+    		"password": "abcd1234",
+    		"address": "Indore"
+  		},
+  		"3234567890":
+  		{
+    		"name": "ravi",
+    		"id": "3234567890",
+    		"password": "abcd1234",
+    		"address": "Vns"
+  		}
+	 }
+	}
+}
+
